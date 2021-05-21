@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/usr/bin/env bash
 
 # run the R script
 /usr/bin/Rscript ~/git/callrail_voice_to_text/R/GetCalls.R

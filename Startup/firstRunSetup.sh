@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/usr/bin/env bash
 sudo apt update
 
 # This takes too much compute time...
