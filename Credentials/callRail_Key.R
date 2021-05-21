@@ -1,4 +1,4 @@
 CallRail_APIV3Key <-c(
-  "ID" =  0123456789,
-  "Secret" = "putYourSecretHere123456789"
+  "ID" =  00YourIDNumberHere00 ,
+  "Secret" = "putYourSecretHere"
 ) 
